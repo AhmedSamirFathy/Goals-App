@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Goals-App/static/css/main.da71633c.css",
+    "main.js": "/Goals-App/static/js/main.6dd7f09e.js",
+    "index.html": "/Goals-App/index.html",
+    "main.da71633c.css.map": "/Goals-App/static/css/main.da71633c.css.map",
+    "main.6dd7f09e.js.map": "/Goals-App/static/js/main.6dd7f09e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da71633c.css",
+    "static/js/main.6dd7f09e.js"
+  ]
+}
